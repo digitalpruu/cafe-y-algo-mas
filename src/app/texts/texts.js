@@ -1,4 +1,4 @@
-const title = "Titulo del emprendimiento";
+const title = "Café y algo más";
 const email = "francorosaevelia@gmail.com";
 const mensajeWhatsApp = encodeURIComponent(
     `¡Hola! Estoy muy interesado en tus productos de ${title} y me gustaría recibir más información sobre ellos. Espero poder hablar pronto contigo para aclarar algunas dudas. ¡Gracias!`
@@ -13,8 +13,6 @@ const textos = {
     },
     about: {
         description1: "\n" +
-            "Aquí tienes el texto extraído para que puedas copiarlo:\n" +
-            "\n" +
             "En Café y Algo Más, nos dedicamos a ofrecer una experiencia única donde el café se encuentra con lo mejor de la pastelería. Desde un café recién hecho hasta capuchinos cremosos y una variedad de deliciosos postres, estamos aquí para deleitar tus sentidos. Nuestro menú está cuidadosamente diseñado para combinar la calidad del café con una selección de tostadas, mantecados, postres y colaciones que complementan a la perfección cada taza de café. Utilizamos ingredientes frescos y técnicas tradicionales para garantizar un sabor excepcional en cada bocado.\n" +
             "\n" +
             "En Café y Algo Más, creemos que cada visita debe ser especial, por lo que nos esforzamos por ofrecer un ambiente cálido y acogedor, ideal para disfrutar de un buen café y compañía. Nuestro objetivo es que cada cliente se sienta como en casa y disfrute de un momento de placer. Si buscas un lugar donde el café y la pastelería se combinan de manera perfecta, ven a Café y Algo Más. ¡El lugar donde el café se encuentra con lo mejor de la pastelería!",
